@@ -22,3 +22,7 @@ By going through this repository, you will learn:
 
 ## Introduction
 In large language models, a prompt is the input provided to the model to produce an output...
+
+
+## Prompt Engineering
+Remember how an LLM works; it's a prediction engine. The model take takes sequential texts as an input...
